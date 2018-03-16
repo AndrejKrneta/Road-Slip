@@ -1,0 +1,13 @@
+{
+"companyName": "OOAD",
+"productName": "Road Slip",
+"dataUrl": "road slip.data.unityweb",
+"asmCodeUrl": "road slip.asm.code.unityweb",
+"asmMemoryUrl": "road slip.asm.memory.unityweb",
+"asmFrameworkUrl": "road slip.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
